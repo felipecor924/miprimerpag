@@ -1,0 +1,31 @@
+{
+	margin: 0;
+}
+#bases{
+	height: 50px;
+}
+#panel img{
+	height: 120px;	
+}
+
+.img-responsive{
+	height: 200px;
+}
+footer{
+	background-color: blue: 
+}
+.navbar div{
+	background-color: red;
+}
+/*#contenedor div{
+	background-color: green;
+}*/
+#emcabezado nav{
+	background-color: red;
+}
+#panel div{
+	background-color: #E8F167;
+}
+body footer div{
+	background-color: #9D94F7;
+}
